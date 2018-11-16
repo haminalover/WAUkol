@@ -1,2 +1,0 @@
-# WAUkol
-Created with CodeSandbox
